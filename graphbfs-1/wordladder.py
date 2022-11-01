@@ -1,3 +1,6 @@
+#Time_Complexity: O(n)
+#Space_Complexity: O(n)
+
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         #the length of any given word
